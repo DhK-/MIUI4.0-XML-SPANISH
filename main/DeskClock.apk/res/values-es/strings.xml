@@ -1,7 +1,7 @@
 <resources>
     <string name="full_wday_month_day_no_year">"EEEE d. MMMM"</string>
     <string name="elapsed_time_format">"(+%s)"</string>
-    <string name="app_label">"Ver"</string>
+    <string name="app_label">"Reloj"</string>
     <string name="alarm_list_title">"Alarmas"</string>
     <string name="add_alarm">"Agregar alarma"</string>
     <string name="menu_desk_clock">"Reloj de escritorio"</string>
