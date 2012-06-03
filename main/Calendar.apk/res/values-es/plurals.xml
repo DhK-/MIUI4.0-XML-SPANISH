@@ -1,0 +1,25 @@
+<resources>
+    <plurals name="Nminutes">
+        <item quantity="other">"% De minutos"</item>
+        <item quantity="one">"1 minuto"</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other">"% De min."</item>
+        <item quantity="one">"1 minuto."</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">"% De horas"</item>
+        <item quantity="one">"1 hora"</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other">"% De dia"</item>
+        <item quantity="one">"1 día"</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">"% De semana"</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">"+%"</item>
+        <item quantity="one">"+1"</item>
+    </plurals>
+</resources>

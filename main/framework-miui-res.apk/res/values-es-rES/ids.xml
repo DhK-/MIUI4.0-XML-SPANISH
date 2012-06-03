@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <item name="action_select_all" type="id">false</item>
+  <item name="aggregate_badge" type="id">false</item>
+  <item name="album_wrapper" type="id">false</item>
+  <item name="amPm" type="id">false</item>
+  <item name="android_action_bar_container" type="id">@android:id/action_bar_container</item>
+  <item name="android_alertTitle" type="id">@android:id/alertTitle</item>
+  <item name="android_alwaysUse" type="id">@android:id/alwaysUse</item>
+  <item name="android_banner" type="id">@android:id/banner</item>
+  <item name="android_body" type="id">@android:id/body</item>
+  <item name="android_clearDefaultHint" type="id">@android:id/clearDefaultHint</item>
+  <item name="android_mount_button" type="id">@android:id/mount_button</item>
+  <item name="android_placeholder" type="id">@android:id/placeholder</item>
+  <item name="android_split_action_bar" type="id">@android:id/split_action_bar</item>
+  <item name="android_title" type="id">@android:id/title</item>
+  <item name="android_unmount_button" type="id">@android:id/unmount_button</item>
+  <item name="applyButton" type="id">false</item>
+  <item name="arrow_down" type="id" />
+  <item name="arrow_left" type="id">false</item>
+  <item name="arrow_right" type="id">false</item>
+  <item name="arrow_up" type="id" />
+  <item name="author" type="id">false</item>
+  <item name="banner" type="id">false</item>
+  <item name="boot_msg_animation" type="id" />
+  <item name="boot_msg_title" type="id" />
+  <item name="bottom_flag" type="id">false</item>
+  <item name="buttonCopy" type="id" />
+  <item name="buttonCut" type="id" />
+  <item name="buttonPaste" type="id" />
+  <item name="buttonPasteList" type="id" />
+  <item name="buttonSelect" type="id" />
+  <item name="buttonSelectAll" type="id" />
+  <item name="cancel_menu_item" type="id">false</item>
+  <item name="cancel_menu_item_icon" type="id">false</item>
+  <item name="cancel_menu_item_text" type="id">false</item>
+  <item name="carrier" type="id">false</item>
+  <item name="categorylist" type="id">false</item>
+  <item name="center_flag" type="id">false</item>
+  <item name="common_root" type="id">false</item>
+  <item name="content" type="id">false</item>
+  <item name="current_date" type="id">false</item>
+  <item name="date" type="id">false</item>
+  <item name="delete" type="id">false</item>
+  <item name="deleteButton" type="id">false</item>
+  <item name="delete_button" type="id" />
+  <item name="dot_digital" type="id">false</item>
+  <item name="downloadButton" type="id">false</item>
+  <item name="downloadProgress" type="id">false</item>
+  <item name="duration" type="id">false</item>
+  <item name="edit" type="id">false</item>
+  <item name="edit_organization_company" type="id">false</item>
+  <item name="edit_organization_title" type="id">false</item>
+  <item name="emergencyCall" type="id">false</item>
+  <item name="expand_button" type="id" />
+  <item name="expand_button_divider" type="id" />
+  <item name="first_digital" type="id">false</item>
+  <item name="fouth_digital" type="id">false</item>
+  <item name="hottest_button" type="id">false</item>
+  <item name="hour" type="id">false</item>
+  <item name="icon" type="id">false</item>
+  <item name="imageView1" type="id">false</item>
+  <item name="image_star" type="id">false</item>
+  <item name="latest_button" type="id">false</item>
+  <item name="line1" type="id">false</item>
+  <item name="loadingprogressbar" type="id">false</item>
+  <item name="lock_screen_battery_info" type="id">false</item>
+  <item name="lock_screen_call_preview_list" type="id">false</item>
+  <item name="lock_screen_music_album" type="id">false</item>
+  <item name="lock_screen_music_battery_indicator" type="id">false</item>
+  <item name="lock_screen_music_temp_album" type="id">false</item>
+  <item name="lock_screen_sms_preview_list" type="id">false</item>
+  <item name="lockscreen_music_command" type="id">false</item>
+  <item name="magicButton" type="id">false</item>
+  <item name="mark" type="id">false</item>
+  <item name="message" type="id">false</item>
+  <item name="minute" type="id">false</item>
+  <item name="music_spectrum_visualizer" type="id">false</item>
+  <item name="name" type="id">false</item>
+  <item name="name_alt" type="id">false</item>
+  <item name="next" type="id">false</item>
+  <item name="number" type="id">false</item>
+  <item name="ok_menu_item" type="id">false</item>
+  <item name="ok_menu_item_icon" type="id">false</item>
+  <item name="ok_menu_item_text" type="id">false</item>
+  <item name="operationBar" type="id">false</item>
+  <item name="operationView" type="id">false</item>
+  <item name="option1" type="id">false</item>
+  <item name="option2" type="id">false</item>
+  <item name="option3" type="id">false</item>
+  <item name="panel" type="id" />
+  <item name="paste_list" type="id" />
+  <item name="phonetic_name" type="id">false</item>
+  <item name="photo" type="id">false</item>
+  <item name="play_pause" type="id">false</item>
+  <item name="presence" type="id">false</item>
+  <item name="previews" type="id">false</item>
+  <item name="previous" type="id">false</item>
+  <item name="resourceauthor" type="id">false</item>
+  <item name="resourcedesigner" type="id">false</item>
+  <item name="resourcedownload" type="id">false</item>
+  <item name="resourcelist" type="id">false</item>
+  <item name="resourcemodifiedtime" type="id">false</item>
+  <item name="resourcesize" type="id">false</item>
+  <item name="resourceversion" type="id">false</item>
+  <item name="ringtonebutton" type="id">false</item>
+  <item name="ringtoneimage" type="id">false</item>
+  <item name="ringtonename" type="id">false</item>
+  <item name="root" type="id">false</item>
+  <item name="screenLocked" type="id">false</item>
+  <item name="search_action" type="id">false</item>
+  <item name="search_bar" type="id">false</item>
+  <item name="search_input" type="id">false</item>
+  <item name="search_toggle" type="id">false</item>
+  <item name="second_digital" type="id">false</item>
+  <item name="seekbar" type="id" />
+  <item name="selection_menu" type="id" />
+  <item name="self_status" type="id">false</item>
+  <item name="separator1" type="id" />
+  <item name="separator2" type="id" />
+  <item name="separator3" type="id" />
+  <item name="slider_group" type="id" />
+  <item name="star" type="id">false</item>
+  <item name="status" type="id">false</item>
+  <item name="status_date" type="id">false</item>
+  <item name="stream_icon" type="id" />
+  <item name="subtitle" type="id">false</item>
+  <item name="tab_bar" type="id">false</item>
+  <item name="tablayout" type="id">false</item>
+  <item name="tableLayout1" type="id">false</item>
+  <item name="tableRow1" type="id">false</item>
+  <item name="tableRow2" type="id">false</item>
+  <item name="tableRow3" type="id">false</item>
+  <item name="tableRow4" type="id">false</item>
+  <item name="tableRow5" type="id">false</item>
+  <item name="tableRow6" type="id">false</item>
+  <item name="text" type="id">false</item>
+  <item name="textView1" type="id">false</item>
+  <item name="third_digital" type="id">false</item>
+  <item name="thumbnail" type="id">false</item>
+  <item name="thumbnail_1" type="id">false</item>
+  <item name="thumbnail_2" type="id">false</item>
+  <item name="thumbnail_3" type="id">false</item>
+  <item name="time" type="id">false</item>
+  <item name="timeDisplayBackground" type="id" />
+  <item name="timeDisplayForeground" type="id" />
+  <item name="title" type="id">false</item>
+  <item name="top_flag" type="id">false</item>
+  <item name="unknown_contact_location" type="id">false</item>
+  <item name="unlock_sim_via_puk" type="id">false</item>
+  <item name="visible_panel" type="id" />
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="sharedUserLabel">"Aplicaciones básicas de Android"</string>
+  <string name="app_label">"Información de los contactos"</string>
+  <string name="provider_label">"Contactos"</string>
+    <string name="upgrade_msg">"Actualizando base de datos de contactos"</string>
+  <string name="upgrade_out_of_memory_notification_ticker">"La actualización del contacto necesita más memoria"</string>
+  <string name="upgrade_out_of_memory_notification_title">"Espacio de almacenamiento de actualización de contactos"</string>
+  <string name="upgrade_out_of_memory_notification_text">"Seleccione esta opción para completar la actualización."</string>
+    <string name="default_directory">"Contactos"</string>
+    <string name="local_invisible_directory">"Otro"</string>
+    <string name="read_write_all_voicemail_label">"Acceso a todos los mensajes de voz"</string>
+    <string name="read_write_all_voicemail_description">"Permite que la aplicación tenga acceso para almacenar y recibir todo el correo de voz del teléfono."</string>
+    <string name="voicemail_from_column">"Correo de voz desde "</string>
+    <string name="pound_search_tip">"Introduzca el número después de \"#\" para buscar contactos"</string>
+  <string name="create_contact">"Nuevo contacto"</string>
+  <string name="send_sms">"Enviar un mensaje"</string>
+    <string name="edit_contact">"Añadir a contactos"</string>
+</resources>

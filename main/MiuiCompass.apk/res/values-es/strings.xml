@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_label">"Brujula"</string>
+  <string name="cannot_get_location">"No se puede obtener su ubicación"</string>
+  <string name="getting_location">"Obteniendo ubicación ..."</string>
+  <string name="location_east">"%s E"</string>
+  <string name="location_north">"%s N"</string>
+  <string name="location_south">"% S S"</string>
+  <string name="location_west">"%s O"</string>
+</resources>
